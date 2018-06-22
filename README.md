@@ -1,5 +1,13 @@
 # merges-dojo
-Aplicación de prueba para practicar los merges
-#Este es el primer cambio
-vamos  a ver si le genero conflictos a pipe....
-otra linea mas
+
+
+# Versionamiento de Codigo
+
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
+
+
+class clase {
+	public void main(){
+	// codigo
+	}
+}
