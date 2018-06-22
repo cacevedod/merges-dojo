@@ -1,13 +1,18 @@
-# merges-dojo
-
 
 # Versionamiento de Codigo
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
+Agregar unas cosas
 
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar. Agregemos unas lienas mas aquí.
+
+cosas mas
 
 class clase {
 	public void main(){
-	// codigo
+		println("vamos a probar el código");
+
 	}
 }
+
+mas cambios para resolver los conflictos
+Uso de meld
