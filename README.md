@@ -5,3 +5,4 @@ ellos buscaban celebrar el día del maestro al facilitador del semillero
 ya que se les olvida las fechas y no le dijeron nada al facilitador el dia que era 
 pero olvidaron y le deben 7 cervezas, una por cada uno
 las cevezas negras eran sus favoritas, y quien lo diría, encontró la block
+La idea es irlas a tomar a la curva
