@@ -6,3 +6,6 @@ ya que se les olvida las fechas y no le dijeron nada al facilitador el dia que e
 pero olvidaron y le deben 7 cervezas, una por cada uno
 las cevezas negras eran sus favoritas, y quien lo diría, encontró la block
 Y todos pagaron las cervezas que debiamos
+diseñaron un plan para reunirse periodicamente durante los 2 meses, la idea era compartir más
+La unión del equipo permitió un muy buen semillero
+todos aprendieron mucho y consiguieron nuevos trabajos
