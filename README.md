@@ -6,3 +6,4 @@ ya que se les olvida las fechas y no le dijeron nada al facilitador el dia que e
 pero olvidaron y le deben 7 cervezas, una por cada uno
 las cevezas negras eran sus favoritas, y quien lo diría, encontró la block
 La idea es irlas a tomar a la curva
+tambien quieren comer pizza y hamburguesa 
