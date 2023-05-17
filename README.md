@@ -1,2 +1,1 @@
-# merges-dojo
-Aplicación de prueba para practicar los merges
+Una vez se reunieron los integrantes del semillero 20232
