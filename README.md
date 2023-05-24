@@ -22,3 +22,4 @@ Un contenedor en el contexto de la virtualización es una unidad de ejecución a
 
 El puerto por defecto de una nueva instalación de PostgreSQL es el 5432.
 
+Kubernetes es una plataforma de código abierto que permite la administración automatizada y escalable de aplicaciones en contenedores. Se ha vuelto popular debido a su capacidad para automatizar tareas como el despliegue, la escalabilidad, la gestión de la configuración y la recuperación ante fallas. Kubernetes facilita la implementación y operación de aplicaciones en contenedores, lo que permite una mayor eficiencia y flexibilidad en el despliegue de aplicaciones.
