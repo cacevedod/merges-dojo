@@ -41,3 +41,6 @@ todos aprendieron mucho y consiguieron nuevos trabajos
 
 Un socket es un punto final de una conexión en una red de computadoras. Se utiliza para establecer la comunicación entre procesos que se ejecutan en diferentes dispositivos a través de una red. Un socket se identifica por una combinación de dirección IP y número de puerto, que permite que los datos se envíen y reciban entre los dispositivos conectados. Los sockets pueden ser tanto para conexiones TCP (orientadas a la conexión y confiables) como para conexiones UDP (sin conexión y no confiables).
 
+
+El puerto por defecto de una nueva instalación de PostgreSQL es el 5432.
+
