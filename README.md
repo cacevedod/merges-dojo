@@ -18,6 +18,7 @@ diseñaron un plan para reunirse periodicamente durante los 2 meses, la idea era
 La unión del equipo permitió un muy buen semillero
 todos aprendieron mucho y consiguieron nuevos trabajos
 
+Un contenedor en el contexto de la virtualización es una unidad de ejecución aislada que encapsula una aplicación y todas sus dependencias, incluyendo bibliotecas y otros archivos necesarios para que la aplicación funcione. A diferencia de una máquina virtual tradicional, un contenedor comparte el sistema operativo host y se ejecuta de forma más liviana y eficiente.
 
 El puerto por defecto de una nueva instalación de PostgreSQL es el 5432.
 
