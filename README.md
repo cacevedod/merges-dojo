@@ -22,3 +22,9 @@ Un contenedor en el contexto de la virtualización es una unidad de ejecución a
 
 El puerto por defecto de una nueva instalación de PostgreSQL es el 5432.
 
+Los componentes principales de un clúster de Kubernetes son los siguientes:
+
+Master: Controla y administra el clúster. Incluye componentes como el API Server, el Controller Manager, el Scheduler y el etcd.
+Nodos (Nodes): Son los servidores físicos o virtuales en los que se ejecutan los contenedores. Cada nodo tiene el agente de Kubernetes (kubelet) y el contenedor de tiempo de ejecución (container runtime), como Docker.
+Pod: La unidad básica de despliegue en Kubernetes. Un pod es una abstracción que envuelve uno o varios contenedores y comparte recursos y almacenamiento entre ellos.
+Servicio (Service): Define una política de red estable para acceder a los pods. Proporciona una dirección IP y un nombre de DNS para comunicarse con los pods.
